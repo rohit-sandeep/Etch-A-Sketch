@@ -1,0 +1,13 @@
+.sketch-container{
+    display: flex;
+    border: 2px solid black;
+    width: 400px;
+    height: 400px;
+    
+}
+
+.sketch-container .grid-square{
+    width: 30 px;
+    height: 30 px;
+    border: 1px solid grey;
+}
